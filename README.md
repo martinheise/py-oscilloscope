@@ -4,6 +4,7 @@ A small and simple tool to monitor audio signals in realtime, using matplotlib.
 
 It is based on a an example for [python-sounddevice](https://github.com/spatialaudio/python-sounddevice/blob/0.4.7/examples/plot_input.py), enhancing the display and adding interactive modification of options.  
 
+![Screenshot of oscilloscope with waveform](doc/images/oscilloscope-screenshot1.png)
 
 ## Installing and running
 
